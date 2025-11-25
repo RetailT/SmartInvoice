@@ -1,0 +1,12 @@
+2025-11-25T09:52:57: [dotenv@17.2.2] injecting env (9) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-25T09:52:59: [dotenv@17.2.2] injecting env (0) from .env -- tip: 📡 auto-backup env with Radar: https://dotenvx.com/radar
+2025-11-25T09:53:04: 🔍 Starting Google Drive authentication...
+2025-11-25T09:53:04: 📄 Found token.json, attempting to use it...
+2025-11-25T09:53:04: ✅ Token loaded successfully.
+2025-11-25T09:53:04: ✅ Token is valid or refreshed successfully.
+2025-11-25T09:53:05: 📁 Found existing folder: Smart_Invoice (ID: 1UJvoStnSl9RsRpDpw3Hz54V9WBk8A_nR)
+2025-11-25T09:53:05: 📁 Found existing folder: Invoices (ID: 10LpPg2-WKA12FUr1dt9j-UqZISTdNTI1)
+2025-11-25T09:53:05: 📁 Final folder path ready: Smart_Invoice/Invoices (ID: 10LpPg2-WKA12FUr1dt9j-UqZISTdNTI1)
+2025-11-25T09:53:05: 📂 Polling database table: tb_SMART_INVOICE
+2025-11-25T09:53:05: 📁 Using Google Drive folder path: Smart_Invoice/Invoices (Final ID: 10LpPg2-WKA12FUr1dt9j-UqZISTdNTI1)
+2025-11-25T09:53:15: ✅ Connected to the MSSQL database
