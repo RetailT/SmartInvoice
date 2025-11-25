@@ -10,3 +10,23 @@
 2025-11-25T09:53:05: 📂 Polling database table: tb_SMART_INVOICE
 2025-11-25T09:53:05: 📁 Using Google Drive folder path: Smart_Invoice/Invoices (Final ID: 10LpPg2-WKA12FUr1dt9j-UqZISTdNTI1)
 2025-11-25T09:53:15: ✅ Connected to the MSSQL database
+2025-11-25T09:53:25: [dotenv@17.2.2] injecting env (9) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2025-11-25T09:53:26: [dotenv@17.2.2] injecting env (0) from .env -- tip: 📡 version env with Radar: https://dotenvx.com/radar
+2025-11-25T09:53:29: 🔍 Starting Google Drive authentication...
+2025-11-25T09:53:29: 📄 Found token.json, attempting to use it...
+2025-11-25T09:53:29: ✅ Token loaded successfully.
+2025-11-25T09:53:29: ✅ Token is valid or refreshed successfully.
+2025-11-25T09:53:30: 📁 Found existing folder: Smart_Invoice (ID: 1UJvoStnSl9RsRpDpw3Hz54V9WBk8A_nR)
+2025-11-25T09:53:30: 📁 Found existing folder: Invoices (ID: 10LpPg2-WKA12FUr1dt9j-UqZISTdNTI1)
+2025-11-25T09:53:30: 📁 Final folder path ready: Smart_Invoice/Invoices (ID: 10LpPg2-WKA12FUr1dt9j-UqZISTdNTI1)
+2025-11-25T09:53:30: 📂 Polling database table: tb_SMART_INVOICE
+2025-11-25T09:53:30: 📁 Using Google Drive folder path: Smart_Invoice/Invoices (Final ID: 10LpPg2-WKA12FUr1dt9j-UqZISTdNTI1)
+2025-11-25T09:53:40: ✅ Connected to the MSSQL database
+2025-11-25T11:40:45: 📄 New PDF detected in DB: 0777121757-500-011100000009620250925220635935
+2025-11-25T11:40:45: 🔁 Token refreshed and saved to token.json.
+2025-11-25T11:40:49: ✅ File uploaded to Google Drive: https://drive.google.com/file/d/1zSy9JsJkztPGw86ErAH0Fl8oxRo-EknQ/view?usp=drivesdk
+2025-11-25T11:40:49: ✅ Updated DOWNLOAD to 'T' for IDX: 3
+2025-11-25T11:40:49: 📡 Connecting to database...
+2025-11-25T11:40:49: smart invoice active
+2025-11-25T11:40:50: ✅ SMS Sent - ID: 1-MSG_GSM-125 Uploaded_Successfully
+2025-11-25T11:40:50: ✅ Logged to tb_SMS_LOG
