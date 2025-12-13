@@ -30,3 +30,32 @@
 2025-11-25T11:40:49: smart invoice active
 2025-11-25T11:40:50: ✅ SMS Sent - ID: 1-MSG_GSM-125 Uploaded_Successfully
 2025-11-25T11:40:50: ✅ Logged to tb_SMS_LOG
+2025-11-26T09:53:29: 🔁 Token refreshed and saved to token.json.
+2025-11-27T09:53:29: 🔁 Token refreshed and saved to token.json.
+2025-11-28T09:53:28: 🔁 Token refreshed and saved to token.json.
+2025-11-29T09:53:27: 🔁 Token refreshed and saved to token.json.
+2025-11-30T09:53:26: 🔁 Token refreshed and saved to token.json.
+2025-12-01T09:53:25: 🔁 Token refreshed and saved to token.json.
+2025-12-02T09:53:25: 🔁 Token refreshed and saved to token.json.
+2025-12-03T09:53:24: 🔁 Token refreshed and saved to token.json.
+2025-12-03T09:53:24: 🗑️ Deleting file: 0777121757-500-011100000009620250925220635935 (ID: 1zSy9JsJkztPGw86ErAH0Fl8oxRo-EknQ)
+2025-12-03T09:53:25: ✅ File deleted: 0777121757-500-011100000009620250925220635935
+2025-12-04T09:53:23: 🔁 Token refreshed and saved to token.json.
+2025-12-05T09:53:22: 🔁 Token refreshed and saved to token.json.
+2025-12-06T09:53:21: 🔁 Token refreshed and saved to token.json.
+2025-12-09T10:34:04: [dotenv@17.2.2] injecting env (9) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-12-09T10:34:07: [dotenv@17.2.2] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+2025-12-09T10:34:13: 🔍 Starting Google Drive authentication...
+2025-12-09T10:34:13: 📄 Found token.json, attempting to use it...
+2025-12-09T10:34:13: ✅ Token loaded successfully.
+2025-12-09T10:34:13: ✅ Token is valid or refreshed successfully.
+2025-12-09T10:34:14: 📁 Found existing folder: Smart_Invoice (ID: 1UJvoStnSl9RsRpDpw3Hz54V9WBk8A_nR)
+2025-12-09T10:34:14: 📁 Found existing folder: Invoices (ID: 10LpPg2-WKA12FUr1dt9j-UqZISTdNTI1)
+2025-12-09T10:34:14: 📁 Final folder path ready: Smart_Invoice/Invoices (ID: 10LpPg2-WKA12FUr1dt9j-UqZISTdNTI1)
+2025-12-09T10:34:14: 📂 Polling database table: tb_SMART_INVOICE
+2025-12-09T10:34:14: 📁 Using Google Drive folder path: Smart_Invoice/Invoices (Final ID: 10LpPg2-WKA12FUr1dt9j-UqZISTdNTI1)
+2025-12-09T10:34:24: ✅ Connected to the MSSQL database
+2025-12-10T10:34:14: 🔁 Token refreshed and saved to token.json.
+2025-12-11T10:34:13: 🔁 Token refreshed and saved to token.json.
+2025-12-12T10:34:14: 🔁 Token refreshed and saved to token.json.
+2025-12-13T10:34:13: 🔁 Token refreshed and saved to token.json.

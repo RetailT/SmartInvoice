@@ -9,9 +9,9 @@ const dbConfig = {
   database: process.env.DB_DATABASE1,
   options: {
     encrypt: false,
-    trustServerCertificate: true
+    trustServerCertificate: true,
   },
-  port: 1443 // correct MSSQL default port
+  port: parseInt(process.env.PORT),
 };
 
 let pool;
